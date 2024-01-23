@@ -1,0 +1,12 @@
+.title {
+    color: blueviolet;
+    border: 1px solid blueviolet;
+    border-radius: 10px;
+    text-align: center;
+    background-color: darkgray;
+  }
+
+  .minha-classe {
+    font-weight: bold;
+    text-decoration: underline;
+  }
